@@ -1,6 +1,6 @@
 <template lang="pug">
   #app
-    .blog blog-with-vue
+    .cv alperencelik
 </template>
 
 <script>
@@ -19,7 +19,7 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 
-  .blog {
+  .cv {
     color: red;
   }
 }
