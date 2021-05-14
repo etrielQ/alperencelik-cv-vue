@@ -1,6 +1,6 @@
 <template lang="pug">
   #app
-    .cv alperencelik
+    .cv alperencelik-cv-vue
 </template>
 
 <script>
